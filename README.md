@@ -8,13 +8,10 @@
 
 Hi if you came here from roblox welcome, you are in the right place all of my scripts are orginized into folders above if you have not used this platform below watch this quick tutorial on how to navigate a repository https://www.youtube.com/watch?v=cII5ItmiYDY - If you found this from exploring my page then welcome I am a roblox scriptor and soon to be game dev here you will find the growing collection of scripts I use for a variety of purposes! 
 
-> # Usernames Of Contributer's
+> ### Usernames Of Contributer's
+> ##### contribute to get added
 > krisxkrazy
-> filler
-> filler
-> filler
-> filler
-> filler
+
 
 ## Contributing
 
