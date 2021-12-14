@@ -1,6 +1,7 @@
 -- # ****************************************************
 -- # Invisibility Script                                *
 -- # By: 7680  Discord: 7680x4320#1741                  *
+-- # Forked By: Kris                                    *
 -- # ****************************************************
 
 Local = game:GetService('Players').LocalPlayer
